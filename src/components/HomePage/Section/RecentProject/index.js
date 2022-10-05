@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-import AllProduct from "./AllProduct";
 import Graphic from "./Graphic";
 
 const Index = () => {
